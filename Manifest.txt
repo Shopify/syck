@@ -26,7 +26,6 @@ lib/syck/constants.rb
 lib/syck/encoding.rb
 lib/syck/error.rb
 lib/syck/loader.rb
-lib/syck/rubytypes.rb
 lib/syck/stream.rb
 lib/syck/stringio.rb
 lib/syck/syck.rb
